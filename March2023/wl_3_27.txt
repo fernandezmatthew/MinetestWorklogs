@@ -1,0 +1,10 @@
+17:00 - 17:30 (.5)
+Group + Blanchard Meeting
+    - Talked about our experience with getting started with the project.
+    - Discussed our deliverables for the Pre-Alpha build due on 3/29.
+    - Those deliverables are:
+        1) Get the debug version of the project built
+        2) Make a basic mods
+        3) Run the existing tests
+
+Total Hours: .5

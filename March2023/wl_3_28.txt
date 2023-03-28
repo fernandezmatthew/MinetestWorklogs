@@ -1,0 +1,9 @@
+15:00 - 17:00 (2)
+Group Meeting
+	- Talked about how we would implement our worklog bookkeeping.
+	- Talked about why we use mods - As our testing framework for our shim additions
+	- Talked about how we run the existing test mods
+	- Helped Sean with getting his development build (successfully)
+	- Tried getting a test to run as per our Pre-Alpha targets
+
+Total Hours: 2
