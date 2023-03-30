@@ -1,0 +1,10 @@
+19:00 - 21:00 (2)
+- Went through the modding guide to get my first mod done.
+- Launched the game to see that my mod worked.
+- Ran an existing client-side test while in the game.
+- Made a screencast in which I demonstrated that I could build the game, 
+    showed my mod, 
+    and demonstrated me running a client-side test.
+- Posted this video to Youtube
+
+Total Hours: 2
