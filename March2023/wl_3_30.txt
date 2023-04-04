@@ -1,0 +1,19 @@
+16:30 - 17:30 (1)
+Group Meeting
+    - Discussed how we will write native api calls
+    - l_modchannels.h/cpp -> native_modchannels.h/cpp
+    - test mod is meant to test every function that was shimmed
+    - for every function, you will need three test blocks.
+        1) lua call of that function
+        2) native call of that function
+        3) compare test of the two outputs
+        * for some classes, this exact triplet may not be the case
+    - Source files to edit are in root/src/script (in lua_api, cpp_api, or native_api directories)
+    - Server-side test files -> root/ mods/testingnative.../test.lua
+    - There is an excel sheet where we can choose a class to convert
+        - Says if it is server, client, or both
+        - Says how many functions needs to be shimmed
+    - once a native or cpp entry is made, must be put into the respective CMakeLists
+    - official minetest documentation available on the confluence
+
+    Total Hours: 1

@@ -1,0 +1,10 @@
+15:00 - 16:00
+Group Meeting
+    - Recapped on our last meeting with the members whon couldn't make it.
+    - Discussed possible solutions for manually editing properties after every cmake rebuild
+    - Discussed revisions to the getting started page on the project's confluence
+    - Discussed possibly working on the project over the summer under a research class (I need to ask Blanchard about this!)
+    - Erik and Lisa discussed implementation of some of Erik's assigned functions.
+    - Lisa discussed how she would proceed with settings class.
+
+Total Hours: 1
