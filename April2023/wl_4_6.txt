@@ -1,0 +1,14 @@
+9:30 - 10:30 (1)
+- Looked through existing conversions to start working on my own conversion of the "craft" class
+- Used "nodetimer" class defined in root/src/script/lua_api as reference
+- Came up with question to ask in the next meeting:
+    ) How do I know which parts of a function I need to change to meet our specifications?
+
+16:30 - 17:30 (1)
+- Discussed how to get started with shiming the craft class
+- Basic idea, if the L pointer is used, store the result of that use into a variable. then pass that variable into
+    our native function (defined in native_class.h/cpp)
+- Unsure how to do this with void functions...
+- Found a website resource for soe of the LUA functions
+
+Total Hours: 2
