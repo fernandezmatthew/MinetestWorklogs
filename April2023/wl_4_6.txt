@@ -9,6 +9,7 @@
 - Basic idea, if the L pointer is used, store the result of that use into a variable. then pass that variable into
     our native function (defined in native_class.h/cpp)
 - Unsure how to do this with void functions...
-- Found a website resource for soe of the LUA functions
+- Found a website resource for some of the LUA functions:
+    https://pgl.yoyo.org/luai/i/lua_type
 
 Total Hours: 2

@@ -3,4 +3,8 @@ PRIOR TO KEEPING LOGS (~4)
 - Spent ~4 hours setting up the project throughout the course of the first week.
 - Had many issues which were all resolved in the team group chat.
 
+- Testing:
+    - Serverside uses a '/'
+    - Client-side uses a '.'
+
 Total Hours: ~4

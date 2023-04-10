@@ -1,0 +1,14 @@
+15:00 - 17:00 (2)
+- Worked on finishing the skeleton for my Craft class conversion
+- Used Nodetimer as reference again
+- Made a craft.lua file which i put into root/mods/testing...
+- Made a native_craft.h/cpp which i put into root/src/scripts/native_api
+- copied and converted includes from the equivalent nodetimer files
+
+17:00-17:30
+- Group Meeting with Blanchard
+    - Talked about working on this project as a tech elective over the summer
+    - Discussed what our our prototype should be, and what we should be demoing
+    - Set up meeting times for the CpE students to get a chance to meet with Blanchard a few more times
+
+Total Hours: 
