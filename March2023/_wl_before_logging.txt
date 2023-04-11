@@ -7,4 +7,9 @@ PRIOR TO KEEPING LOGS (~4)
     - Serverside uses a '/'
     - Client-side uses a '.'
 
+- Meetings:
+	- Monday w/ Blanchard 17:00 - 17:30
+	- Tuesday w/ group 15:00 - 16:00
+	- Thursday w/ group 16:30 - 17:30
+
 Total Hours: ~4

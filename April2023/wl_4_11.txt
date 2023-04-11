@@ -1,0 +1,11 @@
+15:00 - 16:00 (1)
+- Group Meeting
+    - looked at Craft class as a group to try to translate
+    - we refer to the class where we call the native functions our "Wrapper" function
+    - Talked a little more about what our goal is, which is seperation more than conversion
+    - init.lua -> add the new test file
+    - server_test.lua -> add here so that the general test runs your new test
+    - when i make the new native classes, need to move them into Minetest solution using file->move
+    - FIXED testing, needed to return true, "test string"
+
+Total Hours: 1
