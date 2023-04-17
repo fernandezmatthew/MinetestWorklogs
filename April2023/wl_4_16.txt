@@ -13,11 +13,15 @@
 - Figured out that crafting isnt avaiulable in devtest worlds, but works in the regular version.
     Thus, I could craft my Mattblock from the Pre-Alpha
 
-22:30 - 
+22:30 - 1:00 (2.5)
 - Continued making initial tests for all of my functions. 
 - My biggest concern is that the test format that's been described to me doesn't effectively
     test what it needs to.
 - For the purposes of getting my class done in time for the Prototype presentation, I will use the
     described format.
 
-Total Hours: 
+- Had a panic attack and gave up on the project.
+
+- But also helped Sean with some code
+
+Total Hours: 4.5
