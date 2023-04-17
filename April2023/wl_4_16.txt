@@ -1,0 +1,23 @@
+10:15 - 11:15 (1)
+- Starting to define seperate l_native functions.
+- Starting with a copy of the original l function to make sure test
+    file is working properly.
+- Will then edit the l_native function to make calls to a real native function
+    defined in native_craft.cpp.
+- Once this is done for all functions, I am done.
+
+14:30 - 15:30 (1)
+- Waiting on feedback from group members on if crafting works to begin with, cannot
+    craft anything using the original lua calls
+- Creating empty tests for the rest of the functions in this class
+- Figured out that crafting isnt avaiulable in devtest worlds, but works in the regular version.
+    Thus, I could craft my Mattblock from the Pre-Alpha
+
+22:30 - 
+- Continued making initial tests for all of my functions. 
+- My biggest concern is that the test format that's been described to me doesn't effectively
+    test what it needs to.
+- For the purposes of getting my class done in time for the Prototype presentation, I will use the
+    described format.
+
+Total Hours: 

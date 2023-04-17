@@ -5,10 +5,10 @@
 - Made a native_craft.h/cpp which i put into root/src/scripts/native_api
 - copied and converted includes from the equivalent nodetimer files
 
-17:00-17:30
+17:00-17:30 (.5)
 - Group Meeting with Blanchard
     - Talked about working on this project as a tech elective over the summer
     - Discussed what our our prototype should be, and what we should be demoing
     - Set up meeting times for the CpE students to get a chance to meet with Blanchard a few more times
 
-Total Hours: 
+Total Hours: 2.5

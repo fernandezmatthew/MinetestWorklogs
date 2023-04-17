@@ -1,6 +1,8 @@
-16:30 - 17:00
+16:30 - 17:00 (.5)
 - Group meeting
     - Went over how the tests are actually working; not returning integers, returning stack variables
     - Discussing if we are splitting up or teaming up for working on a class
     - If we do team up, will probably be on object class
     - use ..res, ..tostring(res), ..dump(res) to concatenate test strings
+
+Total Hours: .5

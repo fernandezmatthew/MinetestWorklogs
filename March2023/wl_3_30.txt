@@ -16,4 +16,6 @@ Group Meeting
     - once a native or cpp entry is made, must be put into the respective CMakeLists
     - official minetest documentation available on the confluence
 
+    - Had a panic attack and gave up on the project.
+
     Total Hours: 1
